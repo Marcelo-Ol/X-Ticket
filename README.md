@@ -20,3 +20,7 @@ X-Ticket permite a geração de tickets digitais carregados com um saldo previam
 ## 🛠️ **Tecnologias Utilizadas**
 - React Native (Expo)
 ---
+
+## 📱 **Como ver funcionando?**
+No momento a única maneira de ver funcionando é atráves do emulador de celular do expo snack (https://snack.expo.dev/@marcelo-ol/x-ticket)
+---
