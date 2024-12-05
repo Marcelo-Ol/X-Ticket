@@ -19,5 +19,4 @@ X-Ticket permite a geração de tickets digitais carregados com um saldo previam
 
 ## 🛠️ **Tecnologias Utilizadas**
 - React Native (Expo)
-- 
 ---
